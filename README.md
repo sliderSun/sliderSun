@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=NLP+with+deep+learning+Mainly+focus+on+text+classification+text+similarity+intention+recognition+QA+&+task oriented dialogue.++++++++++)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+NLP with deep learning+and+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/mkdir.png" />
