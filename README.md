@@ -22,15 +22,15 @@
 
 <a target="_blank" href="https://zhuanlan.zhihu.com/p/555369904"><img src="https://pic2.zhimg.com/v2-6ade68fe670cea83f51780499a832b44_1440w.jpg?source=172ae18b" alt="Recent Article 1">
 
-<a target="_blank" href="https://zhuanlan.zhihu.com/p/184973728"><img src="https://pic2.zhimg.com/v2-977515b80228cfb8f11d41be56d4e030_1440w.jpg?source=172ae18b" alt="Recent Article 3">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/555748085"><img src="https://pic2.zhimg.com/v2-cc537f97d188c52d17523f989a01b479_1440w.jpg?source=172ae18b" alt="Recent Article 3">
 
 ## Repos
 
-[![bert](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=bert&show_owner=true)](https://github.com/sliderSun/bert)
+[![bert](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=bert&show_owner=true)](https://github.com/sliderSun/bert)    [![chinese_pytorch_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_pytorch_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_pytorch_pretrain_lm)
 
-[![pynlp](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=pynlp&show_owner=true)](https://github.com/sliderSun/pynlp)
+[![pynlp](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=pynlp&show_owner=true)](https://github.com/sliderSun/pynlp)    [![chinese_tensorflow_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_tensorflow_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_tensorflow_pretrain_lm)
 
-[![awesome-pretrained-chinese-nlp-models](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true)](https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models)
+[![awesome-pretrained-chinese-nlp-models](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true)](https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models)    [![SiameseNet-text-similarity](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=SiameseNet-text-similarity&show_owner=true)](https://github.com/sliderSun/SiameseNet-text-similarity)
 
 ## My Contributions
 ![](https://raw.githubusercontent.com/sliderSun/sliderSun/main/assets/github-contribution-grid-snake.svg)
