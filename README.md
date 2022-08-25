@@ -24,16 +24,22 @@
 
 <a target="_blank" href="https://zhuanlan.zhihu.com/p/555748085"><img src="https://pic2.zhimg.com/v2-cc537f97d188c52d17523f989a01b479_1440w.jpg?source=172ae18b" alt="Recent Article 3">
 
-## Repos
+[//]: # (## Repos)
 
-[![bert](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=bert&show_owner=true)](https://github.com/sliderSun/bert)
-[![chinese_pytorch_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_pytorch_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_pytorch_pretrain_lm)
+[//]: # ()
+[//]: # ([![bert]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=bert&show_owner=true&#41;]&#40;https://github.com/sliderSun/bert&#41;)
 
-[![pynlp](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=pynlp&show_owner=true)](https://github.com/sliderSun/pynlp)
-[![chinese_tensorflow_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_tensorflow_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_tensorflow_pretrain_lm)
+[//]: # ([![chinese_pytorch_pretrain_lm]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_pytorch_pretrain_lm&show_owner=true&#41;]&#40;https://github.com/sliderSun/chinese_pytorch_pretrain_lm&#41;)
 
-[![awesome-pretrained-chinese-nlp-models](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true)](https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models)
-[![SiameseNet-text-similarity](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=SiameseNet-text-similarity&show_owner=true)](https://github.com/sliderSun/SiameseNet-text-similarity)
+[//]: # ()
+[//]: # ([![pynlp]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=pynlp&show_owner=true&#41;]&#40;https://github.com/sliderSun/pynlp&#41;)
+
+[//]: # ([![chinese_tensorflow_pretrain_lm]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_tensorflow_pretrain_lm&show_owner=true&#41;]&#40;https://github.com/sliderSun/chinese_tensorflow_pretrain_lm&#41;)
+
+[//]: # ()
+[//]: # ([![awesome-pretrained-chinese-nlp-models]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true&#41;]&#40;https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models&#41;)
+
+[//]: # ([![SiameseNet-text-similarity]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=SiameseNet-text-similarity&show_owner=true&#41;]&#40;https://github.com/sliderSun/SiameseNet-text-similarity&#41;)
 
 ## My Contributions
 ![](https://raw.githubusercontent.com/sliderSun/sliderSun/main/assets/github-contribution-grid-snake.svg)
