@@ -44,9 +44,6 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/vim.png"></code>  
 
 ![](https://komarev.com/ghpvc/?username=sliderSun)
