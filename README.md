@@ -26,26 +26,28 @@
 
 ## Repos
 
-[![bert](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=bert&show_owner=true)](https://github.com/sliderSun/bert)[![chinese_pytorch_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_pytorch_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_pytorch_pretrain_lm)'
+[![bert](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=bert&show_owner=true)](https://github.com/sliderSun/bert)
+[![chinese_pytorch_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_pytorch_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_pytorch_pretrain_lm)
 
-[![pynlp](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=pynlp&show_owner=true)](https://github.com/sliderSun/pynlp)[![chinese_tensorflow_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_tensorflow_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_tensorflow_pretrain_lm)
+[![pynlp](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=pynlp&show_owner=true)](https://github.com/sliderSun/pynlp)
+[![chinese_tensorflow_pretrain_lm](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=chinese_tensorflow_pretrain_lm&show_owner=true)](https://github.com/sliderSun/chinese_tensorflow_pretrain_lm)
 
-[![awesome-pretrained-chinese-nlp-models](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true)](https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models)[![SiameseNet-text-similarity](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=SiameseNet-text-similarity&show_owner=true)](https://github.com/sliderSun/SiameseNet-text-similarity)
+[![awesome-pretrained-chinese-nlp-models](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true)](https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models)
+[![SiameseNet-text-similarity](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=SiameseNet-text-similarity&show_owner=true)](https://github.com/sliderSun/SiameseNet-text-similarity)
 
 ## My Contributions
 ![](https://raw.githubusercontent.com/sliderSun/sliderSun/main/assets/github-contribution-grid-snake.svg)
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/vim.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/tf.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/pt.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+
 
 ![](https://komarev.com/ghpvc/?username=sliderSun)
