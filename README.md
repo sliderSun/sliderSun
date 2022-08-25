@@ -6,7 +6,7 @@
 <h2 align="center">Hi there 👋, I'm sliderSun!</h2>
 
 
-<a href="https://www.zhihu.com/people/sunshubing" target="blank">Blog: <img align="center" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/zhihu.png" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.zhihu.com/people/sunshubing" target="blank">Blog: <img align="center" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/zhihu.png" alt="知乎" height="30" width="40" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=sliderSun&column=9&theme=gruvbox&no-frame=true"/>
