@@ -32,7 +32,8 @@
 
 [![awesome-pretrained-chinese-nlp-models](https://github-readme-stats.vercel.app/api/pin/?username=sliderSun&repo=awesome-pretrained-chinese-nlp-models&show_owner=true)](https://github.com/sliderSun/awesome-pretrained-chinese-nlp-models)
 
-
+## My Contributions
+![](https://raw.githubusercontent.com/sliderSun/sliderSun/main/assets/github-contribution-grid-snake.svg)
 
 **Languages and Tools:**  
 
