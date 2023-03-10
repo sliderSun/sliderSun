@@ -7,7 +7,7 @@
 
 <a href="https://www.zhihu.com/people/sunshubing" target="blank">Blog: <img align="center" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/zhihu.png" alt="知乎" height="30" width="40" /></a>
 <p align="center">
-  <img src="images/dino.git" />
+  <img src="images/dino.gif" />
 </p>  
 # 知乎 Articles
 
