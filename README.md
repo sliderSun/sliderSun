@@ -3,10 +3,12 @@
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/mkdir.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm sliderSun!</h2>
-
+<h2 align="center">Hi there 👋, I'm sliderSun! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <a href="https://www.zhihu.com/people/sunshubing" target="blank">Blog: <img align="center" src="https://raw.githubusercontent.com/sliderSun/sliderSun/master/assets/zhihu.png" alt="知乎" height="30" width="40" /></a>
+<p align="center">
+  <img src="images/dino.git" />
+</p>  
 # 知乎 Articles
 
 - #### <img src="images/bert1.png" width="60"/>  [NLP面试集锦](https://www.zhihu.com/column/c_1149290938089279488)
