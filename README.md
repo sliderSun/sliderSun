@@ -29,6 +29,11 @@
 
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
+- #### <img src="images/lm.jpg" width="60"/>  [ChatLLMs](https://www.zhihu.com/column/c_1626633393965309953)
+  
+  - 🐻 [ChatGLM-6B P-Tuning v2 教程](https://zhuanlan.zhihu.com/p/619417296)
+
+
 - #### <img src="images/bert1.png" width="60"/>  [NLP面试集锦](https://www.zhihu.com/column/c_1149290938089279488)
   
   - 🐻 [Transformer、Like-Bert、对比学习、ChatGPT相关面试集锦](https://zhuanlan.zhihu.com/p/149634836)
