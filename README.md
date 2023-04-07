@@ -29,12 +29,12 @@
 
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
-- #### <img src="images/lm.jpg" width="60"/>  [ChatLLMs](https://www.zhihu.com/column/c_1626633393965309953)
+- #### <img src="images/lm.jpg" width="20" height="20"/>  [ChatLLMs](https://www.zhihu.com/column/c_1626633393965309953)
   
   - 🐻 [ChatGLM-6B P-Tuning v2 教程](https://zhuanlan.zhihu.com/p/619417296)
 
 
-- #### <img src="images/bert1.png" width="60"/>  [NLP面试集锦](https://www.zhihu.com/column/c_1149290938089279488)
+- #### <img src="images/bert1.png"  width="20" height="20"/>  [NLP面试集锦](https://www.zhihu.com/column/c_1149290938089279488)
   
   - 🐻 [Transformer、Like-Bert、对比学习、ChatGPT相关面试集锦](https://zhuanlan.zhihu.com/p/149634836)
   - 🎃 [关于Transformer的那些个为什么](https://zhuanlan.zhihu.com/p/360144789)
@@ -43,7 +43,7 @@
   - 🌁 [灵魂拷问之word2vec](https://zhuanlan.zhihu.com/p/165355551)
   - 😺 [BERT源码阅读笔记](https://zhuanlan.zhihu.com/p/403057261)
   
-- #### <img src="images/bert2.png" width="60"/>  [优选读](https://www.zhihu.com/column/zl-yxd)
+- #### <img src="images/bert2.png"  width="20" height="20"/>  [优选读](https://www.zhihu.com/column/zl-yxd)
   
   - 🐻 [那些轻轻拍了拍Attention的后浪们](https://zhuanlan.zhihu.com/p/161733629)
   - 🎃 [InfoCSE：信息聚合对比学习的句子表示](https://zhuanlan.zhihu.com/p/575219521)
@@ -59,7 +59,7 @@
   - 😺 [Keyword-Attentive Deep Semantic Matching](https://zhuanlan.zhihu.com/p/135991533)
   - 🐻 [The Illustrated Stable Diffusion](https://zhuanlan.zhihu.com/p/596087332)
 
-- #### <img src="images/bert.png" width="60"/>  [中文自然语言处理](https://www.zhihu.com/column/c_1133844347605966848)
+- #### <img src="images/bert.png"  width="20" height="20"/>  [中文自然语言处理](https://www.zhihu.com/column/c_1133844347605966848)
   
   - 🐻 [“全双工连续对话”轻轻拍了拍“唤醒词”](https://zhuanlan.zhihu.com/p/161563225)
   - 🚀 [修剪BERT以加速推理](https://zhuanlan.zhihu.com/p/161729106)
